@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m currently working on becoming a full stack developer by learning front-end and back-end technologies through creating useful and sleak apps.
-- 🌱 I’m currently using Javascript.
-
+- 👀 I’m currently learning everything I can when it comes to data, IT, and web development. I'm passionate about making our world more efficent and  using my engineering background to have real world impacts using software.
+- 🌱 I’m currently using...
+ - React 
+ - Typescript
+ - SQL - (Prisma ORM)
+ - NodeJS backends
 
 You can reach me at adamwall97@gmail.com
 
