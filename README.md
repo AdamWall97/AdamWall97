@@ -4,7 +4,7 @@
  - React 
  - Typescript
  - SQL - (Prisma ORM)
- - NodeJS backends
+ - NodeJS
 
 You can reach me at adamwall97@gmail.com
 
