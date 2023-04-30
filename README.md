@@ -3,8 +3,8 @@
 - 🌱 I’m currently using...
  - React 
  - Typescript
- - SQL - (Prisma ORM)
- - NodeJS
+ - SQL
+ - C# / .NET
 
 You can reach me at adamwall97@gmail.com
 
