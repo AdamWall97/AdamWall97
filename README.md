@@ -6,5 +6,5 @@
  - SQL
  - C# / .NET
 
-You can reach me at adamwall97@gmail.com
+You can reach me at adamwall97@gmail.com or check out my website at adamwall.dev
 
